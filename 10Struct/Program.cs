@@ -18,7 +18,7 @@ namespace _10Struct
     class Team
     {
         int regularcnt;
-        Player[] regular = new Player[3];
+        Player[] regular = new Player[10];
         public bool AddRegular(Player p)
         {
             if(regularcnt < regular.Length)
