@@ -1,0 +1,13 @@
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.exe
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.deps.json
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.runtimeconfig.json
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.runtimeconfig.dev.json
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.dll
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\bin\Debug\netcoreapp3.1\10Struct.pdb
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.csprojAssemblyReference.cache
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.AssemblyInfoInputs.cache
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.AssemblyInfo.cs
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.csproj.CoreCompileInputs.cache
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.dll
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.pdb
+C:\Users\komiyasa\source\repos\CSLearn\10Struct\obj\Debug\netcoreapp3.1\10Struct.genruntimeconfig.cache
