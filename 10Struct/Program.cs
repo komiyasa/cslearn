@@ -62,7 +62,7 @@ namespace _10Struct
             t.AddRegular(new Player(18,"森下", "ピッチャー"));
 
             t.ShowRegular();
-            Player p = t.GetRegular(1);
+            Player p = t.GetRegular(3);
             Console.WriteLine(p.Name);
 
             p = t.GetRegular(5);
