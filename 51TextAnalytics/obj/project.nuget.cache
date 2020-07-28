@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZRjUIK3I5IaNudEiQcB8OAqd6QvElrDfmNDTQVph2oOQcvDa6/DmMM2f1ycslZ0bfacVVfCo+nR33PMQUGPcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\komiyasa\\source\\repos\\CSLearn\\51TextAnalytics\\51TextAnalytics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\komiyasa\\.nuget\\packages\\azure.ai.textanalytics\\5.0.0\\azure.ai.textanalytics.5.0.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\komiyasa\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

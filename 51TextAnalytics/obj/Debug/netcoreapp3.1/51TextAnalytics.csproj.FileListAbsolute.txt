@@ -1,0 +1,17 @@
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.csprojAssemblyReference.cache
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.AssemblyInfoInputs.cache
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.AssemblyInfo.cs
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.exe
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.deps.json
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.runtimeconfig.json
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.runtimeconfig.dev.json
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.dll
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\51TextAnalytics.pdb
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.csproj.CopyComplete
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.dll
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.pdb
+C:\Users\komiyasa\source\repos\CSLearn\51TextAnalytics\obj\Debug\netcoreapp3.1\51TextAnalytics.genruntimeconfig.cache
