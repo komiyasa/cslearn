@@ -57,9 +57,9 @@ namespace _10Struct
         {
             Team t = new Team();
             t.AddRegular(new Player(63,"西川", "センター"));
-            t.AddRegular(new Player(63,"西川", "センター"));
-            t.AddRegular(new Player(63,"西川", "センター"));
-            t.AddRegular(new Player(63,"西川", "センター"));
+            t.AddRegular(new Player(1,"鈴木", "ライト"));
+            t.AddRegular(new Player(7,"堂林", "ファースト"));
+            t.AddRegular(new Player(18,"森下", "ピッチャー"));
 
             t.ShowRegular();
             Player p = t.GetRegular(1);
